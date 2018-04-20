@@ -1,4 +1,5 @@
 * Jocker
 * Darkside
-* Megamente
+* Pinguino
+* Gatubela
 * Locky
